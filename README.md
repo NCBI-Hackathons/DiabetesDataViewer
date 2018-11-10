@@ -1,20 +1,10 @@
 # DiabetesDataViewer
 
-## Please cite our work -- here is the ICMJE Standard Citation:
-
-### ...and a link to the DOI:
-
 ## Awesome Logo
-
-### You can make a free DOI with zenodo <link>
 
 ## Website
 
-## Intro statement
-
-## What's the problem?
-
-## Why should we solve it?
+To develop visual dashboards patient population data and predictive analytics for quick, efficient risk stratification of individual patients in a clinical setting. 
 
 # What is <this software>?
 
